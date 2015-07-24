@@ -1,0 +1,7 @@
+# Document Sources
+
+- `oflc-debarment-list-as-of-2015-07-24.pdf`: http://www.foreignlaborcert.doleta.gov/pdf/Debarment_List_Revisions.pdf, accessed July 24, 2015.
+
+- `H-2A Debarment Table FY 09 to FY 13.xlsx` and `H-2B Debarment Table FY 2009-2014.xlsx`: Provided via email by the Department of Labor.
+
+- `Standard_WH_Dictionary for FOIA 773130.xls`: Obtained via FOIA from the Department of Labor.

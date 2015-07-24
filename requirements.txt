@@ -1,0 +1,9 @@
+pandas
+xlrd
+lxml
+cssselect
+requests
+us
+namestand
+python-dateutil
+ipython[all]

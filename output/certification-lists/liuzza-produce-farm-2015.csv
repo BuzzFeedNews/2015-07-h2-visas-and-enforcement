@@ -1,0 +1,2 @@
+visa_type,fy,last_event_date,case_no,case_status,n_certified,employer_name,employer_state,employer_city,employer_address_1,employer_address_2,is_certified,is_expired,is_duplicate
+H-2A,2015,2015-01-15,H-300-14352-287878,CERTIFIED - FULL,80,"Liuzza Produce Farm, Inc.",LA,TICKFAW,14342 NEW GENESSEE RD,"MAILING: PO BOX 370, TICKFAW, LA 70466",True,False,False
