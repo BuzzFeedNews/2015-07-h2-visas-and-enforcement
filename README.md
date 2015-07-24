@@ -1,6 +1,6 @@
 # H-2 Visa/Enforcement Data and Analysis
 
-This repository contains the data and code supporting several passages in the BuzzFeed News article, ["The New American Slavery: Invited To The U.S., Foreign Workers Find A Nightmare"](), published July 24, 2015.
+This repository contains the data and code supporting several passages in the BuzzFeed News article, ["The New American Slavery: Invited To The U.S., Foreign Workers Find A Nightmare"](http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f), published July 24, 2015.
 
 ## Data
 
